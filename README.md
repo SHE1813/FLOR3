@@ -1,1 +1,3 @@
-# FLOR3
+# floreria_app
+
+A new Flutter project.
